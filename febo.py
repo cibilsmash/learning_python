@@ -1,6 +1,6 @@
 
 
-ntimes = int(input("enter the number"))
+ntimes = int(input("enter the number : "))
 
 n1 = 0
 
